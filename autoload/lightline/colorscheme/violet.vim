@@ -3,7 +3,6 @@
 " Author:       https://github.com/nrhodes91
 " License:      Unlicense
 " Last Change:  2018/09/17
-" Based On:     vim-airline/vim-airline-themes - violet.vim
 " =============================================================================
 
 let s:N1 = [ '#38264b' , '#875faf' , 250 , 97  , 'bold']
